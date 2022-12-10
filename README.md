@@ -1,0 +1,2 @@
+# voice_recognition
+使用pyaudio，speech_recognization等的简单语音识别程序
